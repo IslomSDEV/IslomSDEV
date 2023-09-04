@@ -1,6 +1,6 @@
 
   </div>
-  <img src="https://www.pngitem.com/pimgs/m/398-3987099_webdev-fix-web-development-white-background-hd-png.png" width: 800 />
+  <img src="https://www.pngitem.com/pimgs/m/398-3987099_webdev-fix-web-development-white-background-hd-png.png" height: 200 />
   <h2 class="title" align="left" style="color: #f03c15, ">Hi! 🙋‍♂️ I'm FullStack Developer 👨‍💻</h2>
 
 <div>
