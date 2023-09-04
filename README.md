@@ -1,3 +1,12 @@
-<image src='https://e0.pxfuel.com/wallpapers/898/84/desktop-wallpaper-programming-minimalist-developers.jpg'>
-  <h2 align="left" style="color: #f03c15;">Hi! 🙋‍♂️ I'm FullStack Developer 👨‍💻</h2>
-</image>
+<div>
+  <style>
+    .main-bg {
+      background-color: red;
+      width: 500px;
+      height: 300px;
+    }
+  </style>
+  <div class="main-bg">
+  <h2 class="title" align="left" style="color: #f03c15, ">Hi! 🙋‍♂️ I'm FullStack Developer 👨‍💻</h2>
+  </div>
+</div>
