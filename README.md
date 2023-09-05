@@ -1,12 +1,38 @@
+<p>
+  <h2 align="center"> Hey there! I'm Rustambek. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+</p>
+<br>
+<p>
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400" height="300"/>
+</p>
 
-  </div>
-  <h1 class="title" align="center" style="color: #f03c15, ">Hi! 🙋‍♂️ I'm FullStack Developer 👨‍💻</h1>
-  <img src='https://miro.medium.com/v2/resize:fit:679/1*gReLR6hZjwyBxHmfLN1AVw.gif'/>
-<!--   <img src="https://www.pngitem.com/pimgs/m/398-3987099_webdev-fix-web-development-white-background-hd-png.png" height: 200 /> -->
-  
+<h3> I'm Software Engineer from Uzbekistan. </h3>
+<br>
+<br>
+- 🔋  I’m <b>Frontend</b> developer .<br>
+- 💬 Ask me about anything, I am happy to help<br>
+- 📫 How to reach me: iermamatov33@gmail.com<br>
+<br>
+<br>
+<hr>
+<br>
+## Languages and Tools
 
-<div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-082032?style=for-the-badge&logo=JavaScript&logoColor=#FEC260)
+![React](https://img.shields.io/badge/-React-082032?style=for-the-badge&logo=React&logoColor=#61DAFB)
+![HTML](https://img.shields.io/badge/-HTML5-082032?style=for-the-badge&logo=HTML5&logoColor=#185ADB)
+![CSS3](https://img.shields.io/badge/-CSS3-082032?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/-Sass-082032?style=for-the-badge&logo=Sass&logoColor=CC6699)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-082032?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3)
+![Redux](https://img.shields.io/badge/-Redux-082032?style=for-the-badge&logo=Redux&logoColor=CC6699)
+![Next.js](https://img.shields.io/badge/-Next.js-082032?style=for-the-badge&logo=Next.js&logoColor=CC6699)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-082032?style=for-the-badge&logo=Git&logoColor=#F05032)
+![TypeScript](https://img.shields.io/badge/-TypeScript-082032?style=for-the-badge&logo=TypeScript&logoColor=CC6699)
+![Git](https://img.shields.io/badge/-Git-082032?style=for-the-badge&logo=Git&logoColor=#F05032)
 
 
 
-</div>
+### Follow Me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/I_E_FD)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/islombek-ermamatov/)
