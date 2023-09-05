@@ -1,5 +1,5 @@
 <p>
-  <h2 align="center"> Hey there! I'm Rustambek. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+  <h2 align="center"> Hey there! I'm Islombek. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 </p>
 <br>
 <p>
@@ -26,7 +26,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-082032?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3)
 ![Redux](https://img.shields.io/badge/-Redux-082032?style=for-the-badge&logo=Redux&logoColor=CC6699)
 ![Next.js](https://img.shields.io/badge/-Next.js-082032?style=for-the-badge&logo=Next.js&logoColor=CC6699)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-082032?style=for-the-badge&logo=Git&logoColor=#F05032)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-082032?style=for-the-badge&logo=PostgreSQL&logoColor=#336791)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-082032?style=for-the-badge&logo=TypeScript&logoColor=CC6699)
 ![Git](https://img.shields.io/badge/-Git-082032?style=for-the-badge&logo=Git&logoColor=#F05032)
 
