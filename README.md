@@ -27,7 +27,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-082032?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-082032?style=for-the-badge&logo=Tailwind&logoColor=#07B0CE)
 ![Sass](https://img.shields.io/badge/-Sass-082032?style=for-the-badge&logo=Sass&logoColor=CC6699)
-![MUI](https://img.shields.io/badge/-MUI-082032?style=for-the-badge&logo=MUI&logoColor=CC6699)
+![MUI](https://img.shields.io/badge/-MUI-082032?style=for-the-badge&logo=MUI&logoColor=#007FFF)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-082032?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-082032?style=for-the-badge&logo=PostgreSQL&logoColor=#336791)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-082032?style=for-the-badge&logo=TypeScript&logoColor=CC6699)
