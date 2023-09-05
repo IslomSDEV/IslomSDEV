@@ -1,9 +1,9 @@
 
   </div>
+  <h2 class="title" align="center" style="color: #f03c15, ">Hi! 🙋‍♂️ I'm FullStack Developer 👨‍💻</h2>
   <img src='https://miro.medium.com/v2/resize:fit:679/1*gReLR6hZjwyBxHmfLN1AVw.gif'/>
   <img src="https://www.pngitem.com/pimgs/m/398-3987099_webdev-fix-web-development-white-background-hd-png.png" height: 200 />
   
-  <h2 class="title" align="left" style="color: #f03c15, ">Hi! 🙋‍♂️ I'm FullStack Developer 👨‍💻</h2>
 
 <div>
 
