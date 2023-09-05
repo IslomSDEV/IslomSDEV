@@ -25,7 +25,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-082032?style=for-the-badge&logo=Redux&logoColor=CC6699)
 ![HTML](https://img.shields.io/badge/-HTML5-082032?style=for-the-badge&logo=HTML5&logoColor=#185ADB)
 ![CSS3](https://img.shields.io/badge/-CSS3-082032?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-![Tailwind.css](https://img.shields.io/badge/-Tailwind.css-082032?style=for-the-badge&logo=Tailwind.css&logoColor=#07B0CE)
+![Tailwind.css](https://img.shields.io/badge/-Tailwind-082032?style=for-the-badge&logo=Tailwind.css&logoColor=#07B0CE)
 ![Sass](https://img.shields.io/badge/-Sass-082032?style=for-the-badge&logo=Sass&logoColor=CC6699)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-082032?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-082032?style=for-the-badge&logo=PostgreSQL&logoColor=#336791)
