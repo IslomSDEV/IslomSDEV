@@ -10,10 +10,6 @@
 - 💬 Ask me about anything, I am happy to help<br>
 - 📫 How to reach me: iermamatov33@gmail.com<br>
 <br>
-<p>
-  <img align="right" alt="png" src="https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_640.png" width="400" height="400"/>
-</p>
-<br>
 <br>
 <br>
 <p>
