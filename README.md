@@ -10,14 +10,9 @@
 - 💬 Ask me about anything, I am happy to help<br>
 - 📫 How to reach me: iermamatov33@gmail.com<br>
 <br>
-
 <p>
-  <img align="right" alt="png" src="https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_640.png" width="400" height="300"/>
+  <img align="right" alt="png" src="https://cdn.pixabay.com/photo/2019/10/09/07/28/development-4536630_640.png" width="400" height="400"/>
 </p>
-<br>
-<br>
-<br>
-<br>
 <p>
   <img align="right" alt="GIF" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="400" height="300"/>
 </p>
