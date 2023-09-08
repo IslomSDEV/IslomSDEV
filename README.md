@@ -33,6 +33,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-082032?style=for-the-badge&logo=Sass&logoColor=CC6699)
 ![MUI](https://img.shields.io/badge/-MUI-082032?style=for-the-badge&logo=MUI&logoColor=#007FFF)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-082032?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3)
+![Node.js](https://img.shields.io/badge/-Node.js-082032?style=for-the-badge&logo=Node.js&logoColor=#3C853C)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-082032?style=for-the-badge&logo=PostgreSQL&logoColor=#336791)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-082032?style=for-the-badge&logo=TypeScript&logoColor=CC6699)
 ![Git](https://img.shields.io/badge/-Git-082032?style=for-the-badge&logo=Git&logoColor=#F05032)
