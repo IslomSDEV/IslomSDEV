@@ -32,7 +32,7 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-082032?style=for-the-badge&logo=Tailwind&logoColor=#07B0CE)
 ![Sass](https://img.shields.io/badge/-Sass-082032?style=for-the-badge&logo=Sass&logoColor=CC6699)
 ![MUI](https://img.shields.io/badge/-MUI-082032?style=for-the-badge&logo=MUI&logoColor=#007FFF)
-![Ant.design](https://img.shields.io/badge/-ant.design-082032?style=for-the-badge&logo=ant.design&logoColor=#199FFF)
+![Ant.design](https://img.shields.io/badge/-antdesign-082032?style=for-the-badge&logo=antdesign&logoColor=#199FFF)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-082032?style=for-the-badge&logo=Bootstrap&logoColor=#7952B3)
 ![Node.js](https://img.shields.io/badge/-Node.js-082032?style=for-the-badge&logo=Node.js&logoColor=#3C853C)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-082032?style=for-the-badge&logo=PostgreSQL&logoColor=#336791)
