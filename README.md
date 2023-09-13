@@ -19,9 +19,6 @@
 <br>
 <br>
 
-<br>
-<br>
-
 
 ## Languages and Tools
 
@@ -47,7 +44,7 @@
 
 
 
-### Follow Me
+### Follow Me social
 
 [![Telegram](https://img.shields.io/badge/-Telegram-082032?style=for-the-badge&logo=Telegram&logoColor=#26A5E4)](https://t.me/I_E_FD)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-082032?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/islombek-ermamatov/)
