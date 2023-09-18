@@ -9,8 +9,6 @@
 <h3> I'm Frontend Developer 👨‍💻 from Uzbekistan. </h3>
 <br>
 <br>
-<br>
-<br>
 
 - 🔋  I’m <b> Frontend </b> developer .<br>
 - 💬 Ask me about anything, I am happy to help <br>
