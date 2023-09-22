@@ -7,7 +7,7 @@
 </p>
 <br>
 <h3> I'm Frontend Developer 👨‍💻 from Uzbekistan. </h3>
-<br>.....
+<br>....
 <br>
 
 - 🔋  I’m <b> Frontend </b> developer .<br>
