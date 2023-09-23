@@ -17,7 +17,7 @@
 <br>
 <br>
 <br>
-..............
+............
 ### Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-082032?style=for-the-badge&logo=JavaScript&logoColor=#FEC260)
