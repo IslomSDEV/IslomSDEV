@@ -35,7 +35,7 @@
 <br>
 <br>
 
-<img Width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IslomSDEV&theme=dracula">
+<img Width="1000" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IslomSDEV&theme=dracula">
 
 
 ### Languages and Tools
