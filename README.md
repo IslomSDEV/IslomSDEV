@@ -28,7 +28,7 @@
 <br>
 
 <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=IslomSDEV&theme=chalk&column=3&row=3&margin-w=0&margin-h=1"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=IslomSDEV&theme=chalk&column=2&row=3&margin-w=0&margin-h=1"/>
     <img Width="560" style="object-fit: stretch;" src="https://streak-stats.demolab.com?user=IslomSDEV&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
 </div>
 <br>
