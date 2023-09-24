@@ -23,11 +23,16 @@
   <img Width="312" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IslomSDEV&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8&layout=compact&hide=jupyter%20notebook,html,javascript,css,nodejs,reactjs,vuejs,bootstrapt&card_width=245"/>
   <img Height="201" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=IslomSDEV&show_icons=true&line_height=28&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </div>
-
+<br>
+<br>
 <div>
     <img src="https://github-profile-trophy.vercel.app/?username=IslomSDEV&theme=chalk&column=2&row=2&margin-w=0&margin-h=1"/>
     <img Width="560" style="object-fit: stretch;" src="https://streak-stats.demolab.com?user=IslomSDEV&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
 </div>
+<br>
+<br>
+<br>
+
 <img Width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IslomSDEV&theme=dracula">
 
 
