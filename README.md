@@ -17,6 +17,13 @@
 <br>
 <br>
 <br>
+
+### &#x1f4c8; GitHub Stats
+<div>
+  <img Width="312" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IslomSDEV&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8&layout=compact&hide=jupyter%20notebook,kotlin,Dockerfile,html,javascript,tex,css,php,hack&card_width=245"/>
+  <img Height="201" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=IslomSDEV&show_icons=true&line_height=28&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+</div>
+
 ### Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-082032?style=for-the-badge&logo=JavaScript&logoColor=#FEC260)
