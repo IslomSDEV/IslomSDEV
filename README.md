@@ -20,7 +20,7 @@
 
 ### GitHub Stats
 <div>
-  <img Width="312" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IslomSDEV&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8&layout=compact&hide=jupyter%20notebook,html,javascript,css,nodejs,reactjs,vuejs,bootstrapt&card_width=245"/>
+  <img Width="312" Height="301" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=IslomSDEV&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=8&layout=compact&hide=jupyter%20notebook,html,javascript,css,nodejs,reactjs,vuejs,bootstrapt&card_width=245"/>
   <img Height="301" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=IslomSDEV&show_icons=true&line_height=28&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </div>
 <br>
