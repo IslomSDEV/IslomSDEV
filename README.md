@@ -29,14 +29,13 @@
 <br>
 
 <div>
-    <img style="margin-right: 10px" src="https://github-profile-trophy.vercel.app/?username=IslomSDEV&theme=chalk&column=1&row=2&margin-w=2&margin-h=1"/>
     <img Width="690" style="object-fit: stretch;" src="https://streak-stats.demolab.com?user=IslomSDEV&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
 </div>
 <br>
 <br>
 <br>
 
-<img Width="1000" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IslomSDEV&theme=dracula">
+<img Width="6900" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IslomSDEV&theme=dracula">
 
 
 ### Languages and Tools
