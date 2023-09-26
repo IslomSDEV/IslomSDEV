@@ -27,7 +27,7 @@
 </div>
 <br>
 
-<div>
+<div>`
     <img Width="1000" style="object-fit: stretch;" src="https://streak-stats.demolab.com?user=IslomSDEV&theme=dracula&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
 </div>
 <br>
