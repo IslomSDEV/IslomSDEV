@@ -35,7 +35,6 @@
 
 ### Languages and Tools
 ....
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-082032?style=for-the-badge&logo=JavaScript&logoColor=#FEC260)
 ![React](https://img.shields.io/badge/-React-082032?style=for-the-badge&logo=React&logoColor=#61DAFB)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-082032?style=for-the-badge&logo=Vue.js&logoColor=#3FB27F)
